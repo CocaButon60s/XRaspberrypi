@@ -10,3 +10,10 @@ $ make raspberrypi4_64_defconfig
 # ビルド実施
 $ make
 ```
+
+TODO
+```bash
+# 以下のいずれかでいいかも。。。詳細はmake help
+$ make toolchain
+$ make sdk
+```
